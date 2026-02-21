@@ -4,7 +4,7 @@ A Next.js + GSAP implementation of a scroll-driven hero section inspired by the 
 
 ## Submission Links
 
-- Live Webpage: `<ADD_YOUR_DEPLOYED_URL_HERE>`
+- Live Webpage: 
 - GitHub Repository: `<ADD_YOUR_GITHUB_REPO_URL_HERE>`
 
 ## Tech Stack
