@@ -5,8 +5,7 @@ A Next.js + GSAP implementation of a scroll-driven hero section inspired by the 
 ## Submission Links
 
 - Live Webpage: https://preeminent-babka-b13ae8.netlify.app/
-- GitHub Repository: `<ADD_YOUR_GITHUB_REPO_URL_HERE>`
-
+- GitHub Repository: https://github.com/sudheerxdev/kinetichero
 ## Tech Stack
 
 - Next.js (App Router)
